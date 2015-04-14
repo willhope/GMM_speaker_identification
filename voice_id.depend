@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1418642654 source:c:\users\zengwh\documents\codeblock\voice_id\libmfcc.c
+	<math.h>
+	"libmfcc.h"
+
+1418642654 c:\users\zengwh\documents\codeblock\voice_id\libmfcc.h
+
+1418723899 source:c:\users\zengwh\documents\codeblock\voice_id\main.c
+	"speaker.h"
+	<time.h>
+
+1418697569 source:c:\users\zengwh\documents\codeblock\voice_id\calgmmprob.c
+	"speaker.h"
+	"GMM.h"
+
+1418713901 c:\users\zengwh\documents\codeblock\voice_id\speaker.h
+	<math.h>
+	<stdio.h>
+
+1215073678 c:\users\zengwh\documents\codeblock\voice_id\gmm.h
+
+1214968512 source:c:\users\zengwh\documents\codeblock\voice_id\fft.c
+	<math.h>
+
+1418694599 source:c:\users\zengwh\documents\codeblock\voice_id\gmmtrainning.c
+	"speaker.h"
+	"GMM.h"
+
+1418725118 source:c:\users\zengwh\documents\codeblock\voice_id\mfcc.c
+	"speaker.h"
+	"vad/wb_vad.h"
+	"mfcc.h"
+
+1418650609 c:\users\zengwh\documents\codeblock\voice_id\mfcc.h
+
+1414976333 c:\users\zengwh\documents\codeblock\voice_id\vad\wb_vad.h
+	"typedef.h"
+	"wb_vad_c.h"
+
+1190369280 c:\users\zengwh\documents\codeblock\voice_id\vad\typedef.h
+
+1415066207 c:\users\zengwh\documents\codeblock\voice_id\vad\wb_vad_c.h
+
+1418717611 source:c:\users\zengwh\documents\codeblock\voice_id\vad\wb_vad.c
+	<stdlib.h>
+	"typedef.h"
+	"wb_vad_c.h"
+	"wb_vad.h"
+	"basic_op.h"
+	"basicop2.c"
+
+1377570720 c:\users\zengwh\documents\codeblock\voice_id\vad\basic_op.h
+
+1190369280 c:\users\zengwh\documents\codeblock\voice_id\vad\basicop2.c
+
+1418697569 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\calgmmprob.c
+	"speaker.h"
+	"GMM.h"
+
+1418803209 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\speaker.h
+	<math.h>
+	<stdio.h>
+
+1215073678 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\gmm.h
+
+1214968512 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\fft.c
+	<math.h>
+
+1418694599 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\gmmtrainning.c
+	"speaker.h"
+	"GMM.h"
+
+1418725118 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\mfcc.c
+	"speaker.h"
+	"vad/wb_vad.h"
+	"mfcc.h"
+
+1414976333 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\wb_vad.h
+	"typedef.h"
+	"wb_vad_c.h"
+
+1190369280 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\typedef.h
+
+1415066207 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\wb_vad_c.h
+
+1418650609 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\mfcc.h
+
+1418717611 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\wb_vad.c
+	<stdlib.h>
+	"typedef.h"
+	"wb_vad_c.h"
+	"wb_vad.h"
+	"basic_op.h"
+	"basicop2.c"
+
+1377570720 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\basic_op.h
+
+1190369280 e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\vad\basicop2.c
+
+1418803169 source:e:\代码库\业余爱好版\gmm_speaker_identification\voice_id\main.c
+	"speaker.h"
+	<time.h>
+
+1418697569 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\calgmmprob.c
+	"speaker.h"
+	"GMM.h"
+
+1428656216 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\speaker.h
+	<math.h>
+	<stdio.h>
+
+1215073678 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\gmm.h
+
+1214968512 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\fft.c
+	<math.h>
+
+1418694599 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\gmmtrainning.c
+	"speaker.h"
+	"GMM.h"
+
+1427179322 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\mfcc.c
+	"speaker.h"
+	"vad/wb_vad.h"
+	"mfcc.h"
+
+1414976333 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\wb_vad.h
+	"typedef.h"
+	"wb_vad_c.h"
+
+1190369280 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\typedef.h
+
+1415066207 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\wb_vad_c.h
+
+1418650609 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\mfcc.h
+
+1418717611 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\wb_vad.c
+	<stdlib.h>
+	"typedef.h"
+	"wb_vad_c.h"
+	"wb_vad.h"
+	"basic_op.h"
+	"basicop2.c"
+
+1377570720 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\basic_op.h
+
+1190369280 e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\vad\basicop2.c
+
+1418827475 source:e:\代码库\业余爱好版\gmm_speaker_identification\speaker_identification_v8\voice_id\main.c
+	"speaker.h"
+	<time.h>
+
